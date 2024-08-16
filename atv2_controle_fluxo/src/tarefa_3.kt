@@ -1,5 +1,5 @@
 fun main() {
-    val numero = 80
+    val numero = 8
     var cont = 0
 
     for(i in 2 until numero) {
